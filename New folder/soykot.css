@@ -1,0 +1,232 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@300&family=Inter:wght@500&family=Merriweather:wght@300;700&display=swap');
+
+
+
+.nid{
+    padding: 30px 30px 30px 200px;
+    display: flex;
+    position: relative;
+    
+    align-items: center;
+ }
+.nntext {
+    padding: 0 0 0 400px;
+    color: white;
+    font-family: 'Merriweather', serif;
+   
+    position: absolute;
+    top: 90;
+    right: 200;
+}
+
+    
+    .np{
+        font-size: 2.4rem
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+ 
+
+
+            
+    
+
+
+
+ 
+ /* div.btext {
+    font-family: 'Merriweather', serif;
+    position: absolute;
+    color: rgb(194, 34, 34);
+    text-align: center;
+    
+ } */
+ .off{
+    
+    font-family: 'Inter', sans-serif;
+    font-size: 88px;
+    text-align: center;
+    color: rgb(241, 12, 12);
+    font-weight: 800;
+ }
+
+ .deals{
+    
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    color: rgb(241, 12, 12);
+    font-size: 24px;
+    font-weight: 500;
+
+ }
+
+ .all{
+    
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    color: rgb(11, 10, 10);
+    font-weight: 800;
+ }
+
+ .nyear{
+    text-align: center;
+ }
+
+ .mid{
+    padding: 30px 30px 30px 200px;
+    display: flex;
+    position: relative;
+    
+    align-items: center;
+ }
+.mtext {
+    padding: 0 0 0 30px;
+    color: aliceblue;
+    font-family: 'Merriweather', serif;
+   
+    position: absolute;
+    top: 90;
+    right: 100;}
+
+    .mtext span{
+        color: rgb(247, 242, 252);
+        
+    }
+    .mp{
+        font-size: 12px;
+    }
+    
+   .park{
+    clear: both;
+   }
+   .park span{ color: #F00;}
+    
+    .col1{
+        width: 13%;
+    }
+    .col2{
+        width: 66%;
+        margin-left: 199px;
+        font-family: 'Inter', sans-serif;
+        background-color: rgb(241, 241, 241);
+        text-align: center;
+    }
+    .col11{
+        width: 13%;
+    }
+    .join{
+        
+        color: rgb(238, 238, 238);
+        background-color: rgb(245, 13, 13);
+        font-size: 20px;
+        font-family: Inter;
+        font-weight: 700;
+        text-transform: uppercase;
+        word-wrap: break-word
+    }
+    .join:hover{
+        color: rgb(96, 15, 154);
+    }
+
+    .soon{
+    padding: 30px 30px 30px 200px;
+    display: flex;
+    width: 890px;
+    height: 500px;
+    align-items: center;
+    
+    }
+
+    .offerss{
+        margin-right: 30px;
+    }
+    .pic24{
+        border-radius: 463px;
+        border: 15px solid #F00;
+        margin-right: 40px;
+    }
+ 
+    .what{
+
+        padding: 30px 30px 30px 200px;
+    display: flex;
+  
+    align-items: center;
+    text-align: center;
+    }
+
+    .best{
+
+        padding: 30px 30px 30px 200px;
+        width: 890px;
+        height: 800px;
+        align-items: center;
+       
+        
+      
+    
+        }
+        .best .best1{
+            font-family: 'Merriweather', serif;
+        }
+
+        .pic4{
+            border-radius: 16px;
+            background: rgb(255, 255, 255) 20% ;
+            
+        }
+        
+        .best span{
+            color: #F00;
+        }
+           
+    
+        .mail{
+            padding: 30px 30px 30px 200px;
+            text-align: center;
+            width: 890px;
+            height: 500px;
+            align-items: center;
+            
+            }
+            footer {
+                padding: 3px;
+                background-color: rgb(0, 0, 0);
+                color: white;
+                font-family: 'Inter', sans-serif;
+                font-family: 'Inter Tight', sans-serif;
+                font-family: 'Merriweather', serif;
+            }
+            .footer1{
+                display: flex;
+            }
+            .left{
+                width: 50%;
+                float: left;
+            }
+            .right{
+                width: 50%;
+                float: right;
+                text-align: right;
+            }
+            
+            
